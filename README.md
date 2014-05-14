@@ -12,4 +12,4 @@ Where monokai is the colour palette we want to use.
 
 I've created this repo so we don't have to remember this.
 
-You can see a demo of each stylesheet (here)[http://pygments.org/demo/357593/].
+You can see a demo of each stylesheet here: http://pygments.org/demo/357593/.
